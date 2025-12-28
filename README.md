@@ -1,6 +1,6 @@
 ## ReclamationHub
 
-<div align="center">
+<div align="center" markdown="1">
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-4.2-green?logo=django&logoColor=white)
@@ -27,7 +27,7 @@
 
 ### ✅ Ключевые метрики
 
-<div align="center">
+<div align="center" markdown="1">
 
 | Метрика | Значение |
 |---------|----------|
@@ -47,7 +47,7 @@
 
 ## 📋 `Возможности`
 
-<div align="center">
+<div align="center" markdown="1">
 
 <small>
 
@@ -66,7 +66,7 @@
 
 ## 📊 `Технологии`
 
-<div align="center">
+<div align="center" markdown="1">
 
 | Функции | Технология | Назначение |
 |---------|------------|------------|
@@ -131,7 +131,7 @@ reclamationhub/
 
 Проект является проприетарным и используется для внутренних корпоративных целей.
 
-<div align="center">
+<div align="center" markdown="1">
 
 **⭐ Если проект интересен — буду рад обсудить детали!**
 
@@ -200,7 +200,7 @@ reclamationhub/
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 **⭐ Если проект интересен — буду рад обсудить детали!**
 
