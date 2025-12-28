@@ -27,9 +27,13 @@
 
 ### ✅ Ключевые метрики
 
+<div align="center">
+
 | Метрика | Значение |
 |---------|----------|
-| Рекламаций в базе<br>Пользователей<br>Production<br>Статус | 1 800+<br>8<br>С сентября 2025<br>Активно используется |
+| `Рекламаций в базе`<br>`Пользователей`<br>`Production`<br>`Статус` | 1 800+<br>8<br>С сентября 2025<br>Активно используется |
+
+</div>
 
 ### 🔵 Достигнутые результаты
 
@@ -131,7 +135,7 @@ reclamationhub/
 
 **⭐ Если проект интересен — буду рад обсудить детали!**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Vasilenok_Igor-181717?style=flat-square&logo=github)](https://github.com/IgorVimbor)
+[![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IgorVimbor) [Vasilenok Igor](https://github.com/IgorVimbor)
 
 </div>
 
@@ -200,6 +204,6 @@ reclamationhub/
 
 **⭐ Если проект интересен — буду рад обсудить детали!**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Vasilenok_Igor-181717?style=flat-square&logo=github)](https://github.com/IgorVimbor)
+[![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IgorVimbor) [Vasilenok Igor](https://github.com/IgorVimbor)
 
 </div>
