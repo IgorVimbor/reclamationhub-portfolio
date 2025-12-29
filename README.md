@@ -1,4 +1,4 @@
-## Аналитическая система управления рекламациями
+## ReclamationHub
 
 <div align="center" markdown="1">
 
@@ -9,7 +9,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-yellow?logo=scikit-learn&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Production-success)
 
-### Проект ReclamationHub
+### Аналитическая система управления рекламациями
 
 [Возможности](#-возможности) •
 [Технологии](#-технологии) •
