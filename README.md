@@ -1,15 +1,15 @@
-## ReclamationHub
+## Аналитическая система управления рекламациями
 
 <div align="center" markdown="1">
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-4.2-green?logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11.1-blue?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-4.2.20-green?logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple?logo=bootstrap&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-yellow?logo=scikit-learn&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Production-success)
 
-### Корпоративная аналитическая система управления рекламациями
+### Проект ReclamationHub
 
 [Возможности](#-возможности) •
 [Технологии](#-технологии) •
@@ -20,8 +20,6 @@
 </div>
 
 ---
-
-## 📋 `О проекте`
 
 **ReclamationHub** — комплексная система для учёта, анализа и прогнозирования рекламаций и претензий. Разработана для автоматизации работы службы качества предприятия.
 
